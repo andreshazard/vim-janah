@@ -50,7 +50,7 @@ highlight StatusLineNC guifg=#808080 ctermfg=244 guibg=#3a3a3a ctermbg=237 gui=N
 
 " Number column {{{1
 
-highlight CursorLineNr guifg=#878787 ctermfg=102 guibg=#3a3a3a ctermbg=237 gui=NONE cterm=NONE
+highlight CursorLineNr guifg=#878787 ctermfg=Black guibg=#3a3a3a ctermbg=LightBlue gui=NONE cterm=NONE
 highlight LineNr guifg=#878787 ctermfg=102 guibg=#3a3a3a ctermbg=237 gui=NONE cterm=NONE
 
 " Color column {{{1
